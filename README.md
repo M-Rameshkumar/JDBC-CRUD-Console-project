@@ -31,6 +31,6 @@ Delete a student's record from the database using their student ID.
 ## 📝 Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RameshkumarDeveloper/jdbc-crud-console.git
+  https://github.com/M-Rameshkumar/JDBC-CRUD-Console-project
 # JDBC-CRUD-Console-project
 
